@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Used this statement becuase I am working on Mac
+**/.DS_Store
