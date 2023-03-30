@@ -1,0 +1,22 @@
+{
+  "name": "m10-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "Using node.js, this code can be locally run in command line. This code will prompt a user to answer a few questions and generate a new logo. This is a part of the Module 10 Challenge for the Ohio State University Coding Bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChelseaLuevano/M10-SVG-Logo-Maker.git"
+  },
+  "author": "Chelsea Luevano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChelseaLuevano/M10-SVG-Logo-Maker/issues"
+  },
+  "homepage": "https://github.com/ChelseaLuevano/M10-SVG-Logo-Maker#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
