@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const logo = 'logo.svg';
+const logoFile = 'logo.svg';
 
 
 // An array of questions for user input
@@ -43,11 +43,31 @@ const questions = [
 
 
 // Function to Write SVG File
-
+const writeToFile = function (data) {
+    fs.writeFile(logoFile, data, (err) => {
+        if (err) {
+            return console.log(err);
+        }
+        console.log("The logo file has been created!")
+    });
+}
 
 
 // Function to initialize app
+function init() {
+    inquirer.prompt (questions)
+    .then(answers => {
+        const logoContent = generateLogo(answers);
+        writeToFile(logoContent);
+    })
+    .catch(err => {
+        console.log(err);
+    })
+}
 
+// Function to generate logo for svg 
+function generateLogo(answers) {
 
+}
 
 // Call Initialize App Function
