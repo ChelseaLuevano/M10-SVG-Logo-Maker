@@ -19,5 +19,9 @@ Using node.js, this code can be locally run in command line. This code will prom
 
     Ryan Spath, classmate, helped me in learning the flow of how the cli.js file should be calling the other classes. He helped me write what parameters to pass and troubleshoot errors, including on referencing parameters/variables and guided me to write the generateShape function.
 
+    Nathan Moon shared code on how to validate hexadecimals using regular expression logic:
+    "const hexadecimal = /^[0-9A-Fa-f]+$/g
+    if((hexadecimal.test(splicedAnswer) == false)"
+
     ## Tests
 
