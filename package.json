@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ChelseaLuevano/M10-SVG-Logo-Maker#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
   }
 }
