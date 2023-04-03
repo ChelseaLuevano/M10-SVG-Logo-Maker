@@ -1,4 +1,4 @@
-const Triangle = require('./triangle.js');
+const Triangle = require('../lib/triangle.js');
 
 // This test came from module assignment as an example test that should pass
 // Each shape class should be tested for a render() method that returns a string for the corresponding SVG file with the given shape color.
