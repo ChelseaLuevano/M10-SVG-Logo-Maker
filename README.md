@@ -23,5 +23,9 @@ Using node.js, this code can be locally run in command line. This code will prom
     "const hexadecimal = /^[0-9A-Fa-f]+$/g
     if((hexadecimal.test(splicedAnswer) == false)"
 
+    ## License
+    ISC https://opensource.org/licenses/ISC
+
     ## Tests
+    You can use the tests in the test folder.
 
