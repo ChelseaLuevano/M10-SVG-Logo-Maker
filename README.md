@@ -1,12 +1,15 @@
 # M10-SVG-Logo-Maker
 Using node.js, this code can be locally run in command line. This code will prompt a user to answer a few questions and generate a new logo. This is a part of the Module 10 Challenge for the Ohio State University Coding Bootcamp.
 
+ Video Demo: https://drive.google.com/file/d/1ChMzCJSPc_DhuWcltu7Pyqw7wLNIqLpl/view 
+
 ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
   - [Tests](#tests)
+  - [Questions](#questions)
 
     ## Installation
     Install node.js and inquirer
@@ -27,5 +30,9 @@ Using node.js, this code can be locally run in command line. This code will prom
     ISC https://opensource.org/licenses/ISC
 
     ## Tests
-    You can use the tests in the test folder.
+    You can use the tests in the test folder. Please disregard the extra tests folder, as these are a rough draft of tests I plan to work on in future.
 
+    ## Questions
+    If you have any questions about my Github Project, please send an email to chelsea.m.lueavno@gmail.com .
+
+   
