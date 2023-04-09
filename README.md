@@ -33,6 +33,6 @@ Using node.js, this code can be locally run in command line. This code will prom
     You can use the tests in the test folder. Please disregard the extra tests folder, as these are a rough draft of tests I plan to work on in future.
 
     ## Questions
-    If you have any questions about my Github Project, please send an email to chelsea.m.lueavno@gmail.com .
+    If you have any questions about my Github Project, please send an email to chelsea.m.luevano@gmail.com .
 
    
